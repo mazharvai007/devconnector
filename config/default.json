@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://admin-mazhar:VA4nezTuWgSFj3ju@cluster0.1liqw.mongodb.net/devconnector?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "8c87dfcd411063c46ff7",
+  "githubClientSecret": "f0bbd6195bd820ec3ad053b629ea7b1d27d5b478"
+}
